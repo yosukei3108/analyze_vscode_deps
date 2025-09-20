@@ -1,0 +1,2 @@
+# analyze_vscode_deps
+VSCode拡張機能のnpmパッケージを分析するスクリプト
